@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maithli21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/maithli21/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maithli21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/maithli21/leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithli21/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/maithli21/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
