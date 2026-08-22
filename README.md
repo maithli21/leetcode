@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/maithli21/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/maithli21/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/maithli21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/maithli21/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/maithli21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/maithli21/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Design
 |  |
 | ------- |
