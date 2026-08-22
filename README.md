@@ -217,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2235-add-two-integers](https://github.com/maithli21/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/maithli21/leetcode/tree/master/2469-convert-the-temperature) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/maithli21/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/maithli21/leetcode/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
