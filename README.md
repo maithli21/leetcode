@@ -215,5 +215,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2469-convert-the-temperature](https://github.com/maithli21/leetcode/tree/master/2469-convert-the-temperature) |
 | [3895-count-digit-appearances](https://github.com/maithli21/leetcode/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
