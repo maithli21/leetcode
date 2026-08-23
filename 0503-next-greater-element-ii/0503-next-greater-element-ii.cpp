@@ -12,7 +12,6 @@ public:
                 if(!s.empty()) {
                     ans[i] = s.top();
                 }
-                else ans[i]=-1;
             }
             s.push(nums[i % n]);
         }
