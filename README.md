@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/maithli21/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/maithli21/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/maithli21/leetcode/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/maithli21/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2079-watering-plants](https://github.com/maithli21/leetcode/tree/master/2079-watering-plants) |
 | [2574-left-and-right-sum-differences](https://github.com/maithli21/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/maithli21/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/maithli21/leetcode/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/maithli21/leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maithli21/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/maithli21/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maithli21/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Lifting
 |  |
@@ -265,8 +267,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maithli21/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/maithli21/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Graph Theory
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/maithli21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/maithli21/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
