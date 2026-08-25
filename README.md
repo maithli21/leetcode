@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/maithli21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/maithli21/leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/maithli21/leetcode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/maithli21/leetcode/tree/master/0402-remove-k-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maithli21/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/maithli21/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/maithli21/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/maithli21/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/maithli21/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/maithli21/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/maithli21/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/maithli21/leetcode/tree/master/0735-asteroid-collision) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/maithli21/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/maithli21/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/maithli21/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithli21/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -285,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/maithli21/leetcode/tree/master/0402-remove-k-digits) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/maithli21/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
