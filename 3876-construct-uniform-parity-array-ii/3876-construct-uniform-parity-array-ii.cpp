@@ -1,13 +1,14 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        sort(nums1.begin(),nums1.end());
-        if(nums1[0]%2!=0) return true;
-        else{
-            for(int i=1;i<nums1.size();i++){
-                if(nums1[i]%2!=0) return false;
-            }
+        int odd=0;
+        int mini=INT_MAX;
+        for(int i=0;i<nums1.size();i++){
+            if(nums1[i]%2!=0) odd++;
+            mini=min(mini,nums1[i]);
         }
-        return true;
+        if(mini%2!=0) return true;
+        if(odd==0) return true;
+        return false;
     }
 };
