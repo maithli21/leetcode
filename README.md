@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/maithli21/leetcode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/maithli21/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0213-house-robber-ii](https://github.com/maithli21/leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/maithli21/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maithli21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/maithli21/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/maithli21/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/maithli21/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/maithli21/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/maithli21/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/maithli21/leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/maithli21/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/maithli21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/maithli21/leetcode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/maithli21/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/maithli21/leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/maithli21/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maithli21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Linked List
 |  |
@@ -333,9 +336,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/maithli21/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/maithli21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/maithli21/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/maithli21/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
