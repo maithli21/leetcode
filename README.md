@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/maithli21/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/maithli21/leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/maithli21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/maithli21/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/maithli21/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/maithli21/leetcode/tree/master/4020-elevator-requests-i) |
 ## Backtracking
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/maithli21/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/maithli21/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/maithli21/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/maithli21/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
