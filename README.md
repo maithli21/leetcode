@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/maithli21/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/maithli21/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maithli21/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/maithli21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/maithli21/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/maithli21/leetcode/tree/master/2079-watering-plants) |
 | [2974-minimum-number-game](https://github.com/maithli21/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/maithli21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/maithli21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/maithli21/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/maithli21/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/maithli21/leetcode/tree/master/3925-concatenate-array-with-reverse) |
