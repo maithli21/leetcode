@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/maithli21/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2540-minimum-common-value](https://github.com/maithli21/leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/maithli21/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3146-permutation-difference-between-two-strings](https://github.com/maithli21/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/maithli21/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maithli21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/maithli21/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/maithli21/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maithli21/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/maithli21/leetcode/tree/master/2942-find-words-containing-character) |
+| [3146-permutation-difference-between-two-strings](https://github.com/maithli21/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/maithli21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/maithli21/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maithli21/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
