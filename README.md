@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/maithli21/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/maithli21/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/maithli21/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0328-odd-even-linked-list](https://github.com/maithli21/leetcode/tree/master/0328-odd-even-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/maithli21/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/maithli21/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/maithli21/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
