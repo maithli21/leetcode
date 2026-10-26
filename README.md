@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/maithli21/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/maithli21/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maithli21/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1765-map-of-highest-peak](https://github.com/maithli21/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1920-build-array-from-permutation](https://github.com/maithli21/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/maithli21/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maithli21/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/maithli21/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/maithli21/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/maithli21/leetcode/tree/master/1020-number-of-enclaves) |
+| [1765-map-of-highest-peak](https://github.com/maithli21/leetcode/tree/master/1765-map-of-highest-peak) |
 ## DP on Trees
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/maithli21/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/maithli21/leetcode/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/maithli21/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1765-map-of-highest-peak](https://github.com/maithli21/leetcode/tree/master/1765-map-of-highest-peak) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/maithli21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Number Theory
 |  |
