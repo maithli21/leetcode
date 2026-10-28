@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/maithli21/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/maithli21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/maithli21/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/maithli21/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/maithli21/leetcode/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/maithli21/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/maithli21/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/maithli21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/maithli21/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/maithli21/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/maithli21/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/maithli21/leetcode/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/maithli21/leetcode/tree/master/1765-map-of-highest-peak) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/maithli21/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/maithli21/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/maithli21/leetcode/tree/master/0785-is-graph-bipartite) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/maithli21/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/maithli21/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/maithli21/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/maithli21/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/maithli21/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/maithli21/leetcode/tree/master/1020-number-of-enclaves) |
 ## Topological Sort
 |  |
@@ -515,4 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/maithli21/leetcode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/maithli21/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/maithli21/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
