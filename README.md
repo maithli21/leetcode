@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/maithli21/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/maithli21/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/maithli21/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2000-reverse-prefix-of-word](https://github.com/maithli21/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/maithli21/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/maithli21/leetcode/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/maithli21/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/maithli21/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/maithli21/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/maithli21/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2000-reverse-prefix-of-word](https://github.com/maithli21/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/maithli21/leetcode/tree/master/0018-4sum) |
 | [0165-compare-version-numbers](https://github.com/maithli21/leetcode/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/maithli21/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2000-reverse-prefix-of-word](https://github.com/maithli21/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/maithli21/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maithli21/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
