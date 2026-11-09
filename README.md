@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/maithli21/leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/maithli21/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/maithli21/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/maithli21/leetcode/tree/master/0039-combination-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maithli21/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/maithli21/leetcode/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/maithli21/leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/maithli21/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/maithli21/leetcode/tree/master/0402-remove-k-digits) |
@@ -571,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/maithli21/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/maithli21/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
