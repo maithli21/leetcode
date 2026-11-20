@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/maithli21/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/maithli21/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/maithli21/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/maithli21/leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/maithli21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/maithli21/leetcode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/maithli21/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/maithli21/leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/maithli21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/maithli21/leetcode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/maithli21/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/maithli21/leetcode/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/maithli21/leetcode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maithli21/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/maithli21/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
