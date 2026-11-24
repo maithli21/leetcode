@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/maithli21/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maithli21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/maithli21/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maithli21/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/maithli21/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3467-transform-array-by-parity](https://github.com/maithli21/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maithli21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/maithli21/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/maithli21/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/maithli21/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maithli21/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/maithli21/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maithli21/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/maithli21/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/maithli21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maithli21/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/maithli21/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/maithli21/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maithli21/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/maithli21/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/maithli21/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maithli21/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/maithli21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/maithli21/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/maithli21/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
